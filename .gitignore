@@ -1,0 +1,36 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Build
+/build/
+target/
+bin/
+
+# Logs
+*.log
+
+# Maven/Gradle
+.mvn/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# System
+.DS_Store
+Thumbs.db
+
+# Secrets / Keys / Tokens
+application.yml
+application.properties
+.env
+*.key
+*.pem
+*.jks
+*.p12
+*.crt
+*.secret
+*.credentials
+settings.xml
+gradle.properties
